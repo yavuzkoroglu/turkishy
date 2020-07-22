@@ -3,10 +3,10 @@ A Turkish Q keyboard layout clone for all MacBooks with few tweaks.
 
 *turkishy* is the same as the standard Turkish Q layout with a few key differences:
 
-1. The dead keys in the standard Turkish Q layout are `^`, `~`, `´`, `¨`, and `` ` ``. These keys are now normal characters in Turkish Y layout. So, the user now can type these characters without having to follow them with another character.
-2. CAPS LOCK is now SHIFT LOCK. Typically, a CAPS LOCK only capitalizes the letters on the keyboard. However, a SHIFT LOCK behaves like the user is continuously pressing the SHIFT key. For example, in Turkish Q layout, `SHIFT`+`1` types `!` whereas `CAPS LOCK`+`1` types `1`. In Turkish Y layout, `CAPS LOCK`+`1` types `!`, just like `SHIFT`+`1`.
+1. The dead keys in the standard Turkish Q layout are `^`, `~`, `´`, `¨`, and `` ` ``. These keys are now normal characters in the Turkish Y layout. So, the user now can type these characters without having to follow them with another character.
+2. CAPS LOCK is now SHIFT LOCK. Typically, a CAPS LOCK only capitalizes the letters on the keyboard. However, a SHIFT LOCK behaves like the user is continuously pressing the SHIFT key. For example, in the Turkish Q layout, `SHIFT`+`1` types `!` whereas `CAPS LOCK`+`1` types `1`. In the Turkish Y layout, `CAPS LOCK`+`1` types `!`, just like `SHIFT`+`1`.
 
-**NOTE:** *turkishy* layout is superior to the other SHIFT LOCK solutions found in internet because it further implements support for the cases where extra modifiers are also pressed, e.g. `ALT`, `CTRL`+`ALT`, and so on.
+**NOTE:** *turkishy* layout is superior to the other SHIFT LOCK solutions found in internet because it further implements support for the cases where extra modifiers are used, e.g. `ALT`, `CTRL`+`ALT`, and so on.
 
 **NOTE:** *turkishy* interprets pressing both `SHIFT` and `SHIFT LOCK` as pressing either one of them, unlike some SHIFT LOCK implementations where pressing both cancels each other.
 
